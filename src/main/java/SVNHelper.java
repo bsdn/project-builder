@@ -18,6 +18,10 @@ import org.tmatesoft.svn.core.wc.SVNRevision;
 import org.tmatesoft.svn.core.wc.SVNUpdateClient;
 import org.tmatesoft.svn.core.wc.SVNWCUtil;
 
+/**
+ * @author Lucas
+ * 
+ */
 public class SVNHelper {
 	public static void main(String[] args) throws SVNException {
 		String svnUrlStr = "https://58.246.62.194:8443/svn/SSTICreps/document/统一业务平台/需求文档/上海科委统一业务平台需求规格说明书.doc";

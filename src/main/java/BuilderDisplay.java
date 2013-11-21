@@ -14,6 +14,10 @@ import org.eclipse.swt.widgets.Shell;
 import org.eclipse.swt.widgets.Text;
 import org.tmatesoft.svn.core.wc.SVNClientManager;
 
+/**
+ * @author LucasYue
+ *
+ */
 public class BuilderDisplay {
 
 	/**

@@ -1,5 +1,9 @@
 import java.io.File;
 
+/**
+ * @author LucasYue
+ *
+ */
 public class DeleteDirectory {
 
 
